@@ -1,0 +1,30 @@
+.nav {
+    height: 50px;
+    background-color: rgb(149, 155, 153);
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-links {
+    width: 50%;
+    display: flex;
+    align-items: right;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+h1 {
+    margin: 10px;
+}
+.nav a {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+.btn {
+    background-color: cadetblue;
+}
+
+Body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
